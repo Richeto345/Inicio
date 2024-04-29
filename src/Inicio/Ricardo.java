@@ -6,5 +6,7 @@ public class Ricardo {
 		
 		System.out.println("Buenos dias");
 		
+		System.out.println("Buenas noches");
+		
 	}
 }
