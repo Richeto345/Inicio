@@ -8,5 +8,7 @@ public class Ricardo {
 		
 		System.out.println("Buenas noches");
 		
+		System.out.println("ADIOS");
+		
 	}
 }
